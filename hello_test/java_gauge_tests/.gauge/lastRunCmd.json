@@ -1,0 +1,7 @@
+[
+	"D:\\Program Files\\Gauge\\bin\\gauge.exe",
+	"run",
+	"--machine-readable",
+	"--hide-suggestion",
+	"--simple-console"
+]
